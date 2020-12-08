@@ -1,0 +1,12 @@
+C:\Users\Mehreen\Documents\c#\1st\FormF\bin\Debug\FormF.exe.config
+C:\Users\Mehreen\Documents\c#\1st\FormF\bin\Debug\FormF.exe
+C:\Users\Mehreen\Documents\c#\1st\FormF\bin\Debug\FormF.pdb
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.csprojAssemblyReference.cache
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.Properties.Resources.resources
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.csproj.GenerateResource.cache
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.csproj.CoreCompileInputs.cache
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.exe
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.pdb
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.Form1.resources
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.Form2.resources
+C:\Users\Mehreen\Documents\c#\1st\FormF\obj\Debug\FormF.Form3.resources
